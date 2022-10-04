@@ -9,7 +9,7 @@ As deep CNNs are a rather advanced and computationally expensive type of model, 
 
 <center><img src="https://i.imgur.com/RGanwK4.gif" style="text-align: centre" height="300px"></center>
 
-The dataset to be used consists of images of Simpsons characters taken directly from episodes of the series. This dataset has been compiled by [Alexandre Attia](http://www.alexattia.fr/) and is more complex than the Fashion MNIST dataset we have used so far. Apart from having more classes (we are going to use the 18 characters with more images), the characters can appear in different poses, in different positions of the image or with other characters on the screen (although the character to be classified always appears in the predominant position).
+The dataset to be used consists of images of Simpsons characters taken directly from episodes of the series. This dataset has been compiled by [Alexandre Attia](http://www.alexattia.fr/). Apart from having more classes (we are going to use the 18 characters with more images), the characters can appear in different poses, in different positions of the image or with other characters on the screen (although the character to be classified always appears in the predominant position).
 
 The training dataset can be downloaded from here:
 
