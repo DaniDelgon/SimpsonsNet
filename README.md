@@ -1,7 +1,7 @@
 # SimpsonsNet
-A Neural Network which classifies characters of the famous TV show 'The Simpsons' with images of the TV show as input.
+A Convolutional Neural Network which classifies characters of the famous TV show 'The Simpsons' with images of the TV show as input.
 
-#Convolutional Neural Network to classify The Simpsons characters from images
+# Convolutional Neural Network to classify The Simpsons characters from images
 
 In this project, we are going to work with Convolutional Neural Networks to solve an image classification problem. In particular, we are going to classify images of characters from the well-known Simpsons series.
 
